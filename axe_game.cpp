@@ -1,5 +1,4 @@
 #include "raylib.h"
-#include <vector>
 
 //Window Dimensions
 int width = 900;
